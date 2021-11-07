@@ -1,0 +1,27 @@
+    body {
+      /* position: static !important; */
+      top: 0 !important;
+    }
+
+    body>div.skiptranslate {
+      display: none;
+    }
+
+    .goog-te-gadget-simple {
+      border: none;
+      background: transparent;
+    }
+
+    .goog-te-gadget-simple span {
+      display: none;
+    }
+
+    img.goog-te-gadget-icon {
+      display: none
+    }
+
+    .gTranslate {
+      font-size: 22px;
+      vertical-align: middle;
+      color: #7081b9;
+    }
