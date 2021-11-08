@@ -26,13 +26,13 @@ Google Tranlator kit for Laravel Project.
 
     ## Or Use Laravel Blade Components
 
-        - then copy components/google-translate-kit.blade and paste it on resource/views/components folder.
+   - then copy components/google-translate-kit.blade and paste it on resource/views/components folder.
 
-        - For use This Componet use add those Line to your layout file
+   - For use This Componet use add those Line to your layout file
 
-            ```
-            <x-google-translate-kit/>
-            ```
+         ```
+         <x-google-translate-kit/>
+         ```
 
 - For use Google Translator add this line to your navbar or hover you want to show translate button
 
